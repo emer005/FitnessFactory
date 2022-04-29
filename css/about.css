@@ -1,0 +1,55 @@
+@charset "utf-8";
+#accordion1 .card #headingOne1 {
+    background-color: #30C2CF;
+    color: #042931;
+    font: normal large Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+#accordion1 .card #headingOne1 {
+    color: #0A4152;
+    font: large Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    background-color: #084055;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #0A3F55;
+}
+
+.card #headingOne1 .mb-0 {
+    color: #09363F;
+    font-size: large;
+    text-align: center;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #0D3245;
+}
+body blockquote p {
+    color: #C3E0E9;
+    text-align: center;
+    font: larger "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.text-center {
+    font-size: xx-large;
+}
+#collapseOne1 .card-body p {
+    font: large "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+}
+#collapseOne1 .card-body .rounded {
+    text-align: center;
+}
+.card #collapseTwo1 .card-body {
+    font: large "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+}
+.card #collapseThree1 .card-body {
+    font: large "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+}
+#accordion1 .card #headingThree1 {
+    text-align: center;
+    font: large Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+#accordion1 .card #headingTwo1 {
+    font: large Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+@charset "utf-8";
+table tbody tr {
+    background-color: #2CADD4;
+}
+table tbody tr {
+}
+tbody tr th {
+    background-color: #0E475B;
+    color: #98D2E7;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}
+.container .container-fluid .text-center {
+    color: #AED6E7;
+    font: large "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.container .container-fluid blockquote {
+    color: #2AB3DC;
+}
+.container .container-fluid table {
+    right: auto;
+    left: auto;
+}
+
+
+
+tbody tr td {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+}
